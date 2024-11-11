@@ -2,8 +2,8 @@
 
 🚀 What I’m Working On:
 - 🧪 Research projects in biomedical science & chemistry
-- 🛠 Robotics team (FRC 8729) - coding & strategy!
-- 🧠 Enhancing critical thinking in the Chapter of Future Researchers Club
+- 🛠 Robotics team (FRC 8729) - cading & strategy!
+- 🧠 Enhancing critical thinking in the MHS Researchers Club
   
 🌱 Learning and Growing In:
 - 🔍 Data science and its medical applications
@@ -12,8 +12,7 @@
 🛠 Tech Stack:
 - Languages: Python, JavaScript
 - Tools: Git, Jupyter Notebook, Arduino
-- Interests: Data science, machine learning, medical imaging
-
+- Interests: Data science, machine learning
 
 <!---
 Karan-Kirpalani/Karan-Kirpalani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
