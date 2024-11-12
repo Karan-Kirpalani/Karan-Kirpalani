@@ -15,8 +15,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
   <img width="12" />
-  <img src="https://i.ytimg.com/vi/CFhgUwev8po/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLBW9s1yc9XsV-HoA-gtm00HoGkoNg" height="30" alt="additional logo" />
-  <img width="12" />
 </div>
 
 <div align="left">
@@ -24,7 +22,7 @@
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
-  <img src="path/to/robotics_logo_bw.png" height="35" alt="robotics logo" /> <!-- Replace with the actual path to your black and white robotics logo -->
+  <img src="https://i.ytimg.com/vi/CFhgUwev8po/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLBW9s1yc9XsV-HoA-gtm00HoGkoNg" height="35" alt="additional logo" />
 </div>
 
 <br clear="both">
