@@ -24,6 +24,7 @@
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+  <span style="font-size: 35px; vertical-align: middle;">8729</span>
 </div>
 
 <br clear="both">
@@ -31,7 +32,7 @@
 <h3 align="left">🚀 What I’m Working On:</h3>
 <ul>
   <li>🧪 Research projects in biomedical science & chemistry</li>
-  <li>🛠 Robotics team (FRC <span style="font-size: 30px;">8729</span>) - CADing & strategy!</li>
+  <li>🛠 Robotics team (FRC 8729) - CADing & strategy!</li>
   <li>🧠 Enhancing critical thinking in the MHS Researchers Club</li>
 </ul>
 
@@ -40,25 +41,6 @@
   <li>🔍 Data science and its medical applications</li>
   <li>📈 Python, data visualization, and AI for healthcare</li>
 </ul>
-
-<h3 align="left">🛠 Tech Stack:</h3>
-<ul>
-  <li>Languages: Python, JavaScript</li>
- 
-
-🚀 What I’m Working On:
-- 🧪 Research projects in biomedical science & chemistry
-- 🛠 Robotics team (FRC 8729) - CADing & strategy!
-- 🧠 Enhancing critical thinking in the MHS Researchers Club
-  
-🌱 Learning and Growing In:
-- 🔍 Data science and its medical applications
-- 📈 Python, data visualization, and AI for healthcare
-  
-🛠 Tech Stack:
-- Languages: Python, JavaScript
-- Tools: Git, Replit, Arduino
-- Interests: Data science, machine learning
 
 
 <!---
