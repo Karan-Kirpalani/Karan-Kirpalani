@@ -11,7 +11,7 @@
   
 🛠 Tech Stack:
 - Languages: Python, JavaScript
-- Tools: Git, Jupyter Notebook, Arduino
+- Tools: Git, Replit, Arduino
 - Interests: Data science, machine learning
 
 <!---
