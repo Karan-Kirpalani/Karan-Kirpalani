@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Karan-Kirpalani
+- 👋 Hi, I’m @Karan-Kirpalani - New to Programming-ish
 
 🚀 What I’m Working On:
 - 🧪 Research projects in biomedical science & chemistry
