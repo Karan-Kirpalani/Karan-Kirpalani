@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Karan-Kirpalani - New to Programming-ish
+- 👋 Hi, I’m @Karan-Kirpalani - New to codin, kinda!
 
 🚀 What I’m Working On:
 - 🧪 Research projects in biomedical science & chemistry
