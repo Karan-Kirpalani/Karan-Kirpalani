@@ -1,31 +1,14 @@
-- 👋 Hi, I’m @Karan-Kirpalani - New to codin, kinda!
-
-🚀 What I’m Working On:
-- 🧪 Research projects in biomedical science & chemistry
-- 🛠 Robotics team (FRC 8729) - CADing & strategy!
-- 🧠 Enhancing critical thinking in the MHS Researchers Club
-  
-🌱 Learning and Growing In:
-- 🔍 Data science and its medical applications
-- 📈 Python, data visualization, and AI for healthcare
-  
-🛠 Tech Stack:
-- Languages: Python, JavaScript
-- Tools: Git, Replit, Arduino
-- Interests: Data science, machine learning
-
 <h2 align="left">Hi 👋! My name is Karan and I'm a High School programmer from Ottawa.</h2>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=karan-kirpalani&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=karan-kirpalani&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://camo.githubusercontent.com/514f682a0b43a9422eee5d9e1d81ef2b7c866247575a96f1080913870d87f0e9/68747470733a2f2f63646e612e61727473746174696f6e2e636f6d2f702f6173736574732f696d616765732f696d616765732f3032382f3130322f3035382f6f726967696e616c2f706978656c2d6a6566662d6d61747269782d732e6769663f31353933343837323633"  />
 
 ###
 
@@ -54,6 +37,21 @@
 <br clear="both">
 
 ###
+
+🚀 What I’m Working On:
+- 🧪 Research projects in biomedical science & chemistry
+- 🛠 Robotics team (FRC 8729) - CADing & strategy!
+- 🧠 Enhancing critical thinking in the MHS Researchers Club
+  
+🌱 Learning and Growing In:
+- 🔍 Data science and its medical applications
+- 📈 Python, data visualization, and AI for healthcare
+  
+🛠 Tech Stack:
+- Languages: Python, JavaScript
+- Tools: Git, Replit, Arduino
+- Interests: Data science, machine learning
+
 
 <!---
 Karan-Kirpalani/Karan-Kirpalani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
