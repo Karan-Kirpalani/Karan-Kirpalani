@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Karan and I'm a High School programmer from Ottawa.</h2>
+<h2 align="left">Hi 👋! My name is Karan and I'm a High School programmer from Ottawa </h2>
 
 ###
 
