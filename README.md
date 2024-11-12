@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Karan and I'm a High School programmer from Ottawa</h2>
+<h2 align="left">Hi 👋! My name is Karan and I'm a high school programmer from Ottawa</h2>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=karan-kirpalani&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
@@ -24,7 +24,7 @@
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
-  <span style="font-size: 35px; vertical-align: middle;">8729</span>
+  <img src="path/to/robotics_logo_bw.png" height="35" alt="robotics logo" /> <!-- Replace with the actual path to your black and white robotics logo -->
 </div>
 
 <br clear="both">
@@ -40,8 +40,8 @@
 <ul>
   <li>🔍 Data science and its medical applications</li>
   <li>📈 Python, data visualization, and AI for healthcare</li>
-</ul>
-
+ </ul> ```html
+</div>
 
 <!---
 Karan-Kirpalani/Karan-Kirpalani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
