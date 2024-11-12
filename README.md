@@ -32,14 +32,14 @@
 <ul>
   <li>🧪 Research projects in biomedical science & chemistry</li>
   <li>🛠 Robotics team (FRC 8729) - CADing & strategy!</li>
-  <li>🧠 Enhancing critical thinking in the MHS Researchers Club</li>
+  <li>🧠 Enhancing critical thinking in Python and HTML, JS, and CSS</li>
 </ul>
 
 <h3 align="left">🌱 Learning and Growing In:</h3>
 <ul>
   <li>🔍 Data science and its medical applications</li>
   <li>📈 Python, data visualization, and AI for healthcare</li>
- </ul> ```html
+ </ul>
 </div>
 
 <!---
